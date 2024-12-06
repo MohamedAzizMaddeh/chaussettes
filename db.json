@@ -1,0 +1,16 @@
+{
+    "variants": [
+        {
+            "id": 2001,
+            "color": "green",
+            "image": "https://image.noelshack.com/fichiers/2024/49/4/1733419029-socks-green.jpg",
+            "quantity":"50"
+        },
+        {
+            "id": 2002,
+            "color": "blue",
+            "image": "https://image.noelshack.com/fichiers/2024/49/4/1733419026-socks-blue.jpg",
+            "quantity":"0"
+        }
+    ]
+}
